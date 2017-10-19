@@ -1,4 +1,4 @@
-# nmt-en2ko-fakenews
+# nmt-en2ko-fakenews-dataset
 
  The fake news dataset is translated version of **[fnc dataset](http://www.fakenewschallenge.org/)**
  
